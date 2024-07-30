@@ -1,0 +1,1555 @@
+{
+  "name": "Uighur net",
+  "author": "xgh149",
+  "version": "3.76",
+  "description": "",
+  "fileApi": "https://modpacks.hoi4.us.kg/modpack",
+  "files": [
+    {
+      "path": "config/betteranimalsplus-client.json5",
+      "hash": "9c4472664a3f359bede1af1518ed9dda33e502d2"
+    },
+    {
+      "path": "config/betteranimationscollection-client.toml",
+      "hash": "88063754c398ae6a4851f064ebb1fa359edd59c3"
+    },
+    {
+      "path": "config/bettertridents-common.toml",
+      "hash": "1cea88303c703045e3fb2754ded0ab623eaed536"
+    },
+    {
+      "path": "config/bettertridents-server.toml",
+      "hash": "a6b70bef5e0939d577ee2b2d7eb2d250c516dfd7"
+    },
+    {
+      "path": "config/cardinal-components-api.properties",
+      "hash": "fa888bcbf7e935bdae5567d26ffad1ac2f93b35c"
+    },
+    {
+      "path": "config/chestcavity.json",
+      "hash": "8d07df6f1220de2c16664ca3e20cf3984d77c030"
+    },
+    {
+      "path": "config/collective.json5",
+      "hash": "840adf33852578f239021004dd2412c8cf6c3f58"
+    },
+    {
+      "path": "config/configured.client.toml",
+      "hash": "2a9798ebb7ca1426bd8b645e219dc7f9eaf909e4"
+    },
+    {
+      "path": "config/emi.css",
+      "hash": "44768002eb29b91d3f4688c7a5598449671ce7a1"
+    },
+    {
+      "path": "config/enderitemod.json",
+      "hash": "b94c86f837eb64a019571a0b9fea9294ca4479c4"
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "hash": "bf8a1f8f2fc882e01743d32547b8d3df0af6c310"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "58b81b870399a90daad1a3249c68c2d5bd18abf9"
+    },
+    {
+      "path": "config/inventoryprofilesnext/新的世界/prev-villager-trading-config.json",
+      "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f"
+    },
+    {
+      "path": "config/inventoryprofilesnext/新的世界/villager-trading-config.json",
+      "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f"
+    },
+    {
+      "path": "config/iris.properties",
+      "hash": "207dc8ea0e922f0c1d034e0c9c00a6b478196541"
+    },
+    {
+      "path": "config/itemphysic-client.json",
+      "hash": "82b1097fbe679cb4371c66a9510f43db59c07ec8"
+    },
+    {
+      "path": "config/itemphysic.json",
+      "hash": "eb86b38be640fbe9376ce145c0763614eb4e0175"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "72d53dff121a09f17074f74ab56de4055e48eac6"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "a2d1f22ee9a3aa27f3d25bb93c4c5d5cd5580e21"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "bf41efd049a47218c26d28b6c88222a0bab76ac7"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "d7f78b145773baf483733330fe24c75824a848ab"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "7f92cdf8c2af2b0376dfc5d29d794f8e78a99a7f"
+    },
+    {
+      "path": "config/journeymap-server.json",
+      "hash": "e6611b08e4b0b551ccdf12b90e0a7d6772cbac14"
+    },
+    {
+      "path": "config/lithium.properties",
+      "hash": "d4d30939d76f2e3e7ab2736e9649be0abcc310c0"
+    },
+    {
+      "path": "config/modmenu.json",
+      "hash": "261d46ad0aed315cc3afdf0728f15ec21192d028"
+    },
+    {
+      "path": "config/paintings.toml",
+      "hash": "89c80dacb2d1c9d865775871d10775d412672b8c"
+    },
+    {
+      "path": "config/roughlyenoughitems/collapsible.json5",
+      "hash": "d3ddda466e4e5fb9048711c0424c8970d474fc7c"
+    },
+    {
+      "path": "config/roughlyenoughitems/config.json5",
+      "hash": "353bb5a2d92f3bd2e3d3c63e9d1b920254f7136c"
+    },
+    {
+      "path": "config/roughlyenoughitems/favorites.json5",
+      "hash": "ecc8e0641fd560557b568f78c34869b9a082babb"
+    },
+    {
+      "path": "config/roughlyenoughitems/hints.json",
+      "hash": "fa7d72a9dc0ffc96a9b3eeb1ccd0f5ab0fb59cc0"
+    },
+    {
+      "path": "config/roughlyenoughitems/pinyin.properties",
+      "hash": "ac69d09864f4db94b7f8c8dc9050c63a244393b6"
+    },
+    {
+      "path": "config/roughlyenoughitems/pinyin_double.properties",
+      "hash": "335a8b1de3228483f3f00ab0e36d0897a778ed9b"
+    },
+    {
+      "path": "config/sidebar_buttons.json",
+      "hash": "3268d4e9fbe1ea03a2567ce16863d5f326d90a0f"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "hash": "588ca7fdf84192d2a931150034d9f36af9b0b362"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "hash": "09db7f09d6dfd063ec4c7c534102892d67655d98"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "hash": "93ca40d20769fef06a59a289f0d90d7377ce44cc"
+    },
+    {
+      "path": "config/toolleveling/command_config.json",
+      "hash": "d1df453801f3a0e4a2f870929d29302371f115c7"
+    },
+    {
+      "path": "config/toolleveling/item_values.json",
+      "hash": "1ba2ef14369fd473e70069312fff820e75a9cf99"
+    },
+    {
+      "path": "config/toolleveling/README.txt",
+      "hash": "83c5fc74598380adba48e9fcfa305533c22b3f3e"
+    },
+    {
+      "path": "config/toolleveling/tool_leveling_table.json",
+      "hash": "8673f0b0e8eaaf70c6e7484790066455babf9a74"
+    },
+    {
+      "path": "config/travelersbackpack.json5",
+      "hash": "31def0545fc27692186654a1952539302b9fa71d"
+    },
+    {
+      "path": "defaultconfigs/ftbultimine/ftbultimine-client.snbt",
+      "hash": "a941713d1967797f43a95bc314d39fd2c7eabc86"
+    },
+    {
+      "path": "defaultconfigs/ftbultimine/ftbultimine-server.snbt",
+      "hash": "e2e3b660cc3d64a78049ddbc62e0ea6d0dcda4c6"
+    },
+    {
+      "path": "emi.json",
+      "hash": "56351504572808f63608373e67113dc5d301f11c"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "8928fe78ebe6bb2b27372044af45124e7deab227"
+    },
+    {
+      "path": "irisUpdateInfo.json",
+      "hash": "4a928d0396c87ed4427360de51398918c5ca14c5"
+    },
+    {
+      "path": "journeymap/colorpalette.html",
+      "hash": "8a703a77f871f6ea0821c158be854bc9a526a589"
+    },
+    {
+      "path": "journeymap/colorpalette.json",
+      "hash": "dd0357380553ad2e340f51825675062fb2089a4f"
+    },
+    {
+      "path": "journeymap/config/5.9/addons/addon.journeymapteams-vanilla.config",
+      "hash": "c84405b193bf2c8b7ca3d7baa5fb375695ad9910"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.core.config",
+      "hash": "1fe992c8c8603c2f1ea49c7e0f41f056d866cb2c"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.fullmap.config",
+      "hash": "299b28fc6329a0dc37084ba60723e5d45337fd7b"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.minimap.config",
+      "hash": "93336a35f0ed5075f2b0084201d163752a7565d2"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.minimap2.config",
+      "hash": "f6a473aed2602d8a9297524a5386d493718313c7"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.topo.config",
+      "hash": "86ed27fb73a9436bd1c0245284e959425fa79673"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.waypoint.config",
+      "hash": "308437ed4b43957e65d2672320278ce8f1c36298"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.webmap.config",
+      "hash": "232e921399a982f81b127eeffc0d48fbd4ea0e97"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/biome/-1,-1.png",
+      "hash": "7e83c8c27d48bb932c01866d74c7d60712052a8c"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/biome/-1,-2.png",
+      "hash": "929b507ad620faefd496f8649704be3f8e401af1"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/biome/0,-1.png",
+      "hash": "81b34c1bd75dbdf0466535764f0d67fd75baeab0"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/biome/0,-2.png",
+      "hash": "b63b64169ff181fbe6833df02f471a0a6b553617"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/cache/r.-1.-1.mca",
+      "hash": "6041266a62a816143477386a3500ab434e6f37a7"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/cache/r.-1.-2.mca",
+      "hash": "95c6b79504a37bf8602bfe94bed2045854e6509d"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/cache/r.0.-1.mca",
+      "hash": "1ca25d71c895981c47f2d9f29b755d55bb63fb29"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/cache/r.0.-2.mca",
+      "hash": "d1c9e512e2da5b5d182f739d02c748420f602d6e"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/cache/r.1.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/cache/r.1.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/day/-1,-1.png",
+      "hash": "cc151479974712c456f3af041348695a89a0588a"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/day/-1,-2.png",
+      "hash": "93c4314aaffa7e40c4fb9214f593fb37a97f6dff"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/day/0,-1.png",
+      "hash": "3022b505c0212b9e06d21f5942281e7793aa1c31"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/day/0,-2.png",
+      "hash": "97de523132c00991477dd09845344b125f115ee8"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/night/-1,-1.png",
+      "hash": "2109f9d6b845295cb4331654c05f814b0c6c81d1"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/night/-1,-2.png",
+      "hash": "3a0ec92e44d49dfb3ec898dcc5a88a94b84bb23a"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/night/0,-1.png",
+      "hash": "db232dbc3542c5b0f4ff88a906c6949428d7f7cb"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/night/0,-2.png",
+      "hash": "17f17fb7ff9857ec08764b75147b91cb6bdaf782"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/topo/-1,-1.png",
+      "hash": "6b7c3f54bd6c4b505def701d3110e97fa4c3d967"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/topo/-1,-2.png",
+      "hash": "d057105367a2b97b41f488ba9c4d5d150495e4af"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/topo/0,-1.png",
+      "hash": "d58da8900988a73a6104e589b76741ffff949521"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/topo/0,-2.png",
+      "hash": "0939e3fbadf12fa00e1f2087f0eb838d35374418"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/topo/cache/r.-1.-1.mca",
+      "hash": "c92d460e0e09e18cd60a36b6566454b1c0f63982"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/topo/cache/r.-1.-2.mca",
+      "hash": "81e88fa194daa7cdc7b36a5c9964581e3bafb38f"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/topo/cache/r.0.-1.mca",
+      "hash": "ebaabf16ed8c339cc7a4f13711eb36cffcf3ee56"
+    },
+    {
+      "path": "journeymap/data/sp/新的世界/overworld/topo/cache/r.0.-2.mca",
+      "hash": "53f06dbb6a2d72c924935b3d2fcdd102aac2cc11"
+    },
+    {
+      "path": "journeymap/icon/theme/default.theme.config",
+      "hash": "3bd6fa9af17717b6d0ccce4133b35f7626d4456d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/htoolbar_begin.png",
+      "hash": "c811bcdeb1c19ebf433754025e1df1e3bf363061"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/htoolbar_end.png",
+      "hash": "c811bcdeb1c19ebf433754025e1df1e3bf363061"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/htoolbar_inner.png",
+      "hash": "5d8dc0dcbd3d03f3c63067e7649ccdc4b569fe2d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/vtoolbar_begin.png",
+      "hash": "43a040a085427452ae129d7cb85be6a03163ad32"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/vtoolbar_end.png",
+      "hash": "43a040a085427452ae129d7cb85be6a03163ad32"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/vtoolbar_inner.png",
+      "hash": "5d8dc0dcbd3d03f3c63067e7649ccdc4b569fe2d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_disabled.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_hover.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_off.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_on.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_disabled.png",
+      "hash": "eb48555b5aa3640baafc658aa32e8a69d2c06568"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_hover.png",
+      "hash": "be10c006eab72f086d5cca11ec2bcd785d8ce2f4"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_off.png",
+      "hash": "eb48555b5aa3640baafc658aa32e8a69d2c06568"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_on.png",
+      "hash": "26a258d5bd8490909fe269611aa4bd574bc94de1"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/DesertTemple.theme2.json",
+      "hash": "a3d83b043da95ad37da725188ceeb366757fbfe9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/EndCity.theme2.json",
+      "hash": "9ee7ec3ffdec2c1f9261151e71634974db6fffc8"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/ForestMansion.theme2.json",
+      "hash": "ca3e1d41c0bba4005aa50c3ceb8a98c1fbb1dee6"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/about.png",
+      "hash": "f461cc3b3cd611558247fb7ecd033594e68c9f08"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/actions.png",
+      "hash": "5b88aac3387e5f63b5ba29c284191a99646c4629"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/alert.png",
+      "hash": "2c2178c4d11aa2f4f70e390441ecc3c2adc6966c"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/animals.png",
+      "hash": "1fc66426ce53560f90a0bca24890b0c8714b2d21"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/automap.png",
+      "hash": "1da71cdc3d72a1521e77f52923dbe9255d23f67f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/biome.png",
+      "hash": "9ecf86ef136b0f24f2dfa01911047172f3c42442"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/browser.png",
+      "hash": "3106c770f53d40a6c867da80bb665419df611af9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/caves.png",
+      "hash": "562edb7762f675de702cdc7bc657d7446693880e"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/close.png",
+      "hash": "e5ca87379db037c679fb92d0072f784443afede4"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/day.png",
+      "hash": "7bfe8be57f5a770ae008effd7d0cac955f92d91c"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/delete.png",
+      "hash": "07ecdeea6b5a238bf4b5b2efdf97b1ca2ccb0b39"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/disable.png",
+      "hash": "f96c307ae700a3843dfba981a0cf46043c5dda07"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/follow.png",
+      "hash": "c1b1f897797021eb5fae548382de10b97f946905"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/grid.png",
+      "hash": "09afd9fa4691b587c929c6ccdf7a636d5692dee1"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/keys.png",
+      "hash": "1d89290ae4fafaaeefe5e68373a25ac1e99b6b56"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/layers.png",
+      "hash": "8806ccc808740ec8d6ec48c412c0d951f8e71212"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/monsters.png",
+      "hash": "a05471a2929bb4777a817a1118b1ac47de1020c1"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/night.png",
+      "hash": "0f9fe8a76a4b0feaa219b091694b585e8d9ceeda"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/options.png",
+      "hash": "1e7f049470b34ed17319fd6c4b45e0ff75e06530"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/pets.png",
+      "hash": "4cb5c9ac069d5bb608f2b671efbf6457eee54842"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/players.png",
+      "hash": "171c188e205ae5c6d447e4c52cfb3af905e83f4f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/reset.png",
+      "hash": "1186e004bdca5beb00b239de902e154167b717fb"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/savemap.png",
+      "hash": "1e4bf7ac739866f58a1dee5498c45678fe49520f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/search.png",
+      "hash": "8687431972527680ef2cfaa7913d0fdee8d3c1fc"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/server.png",
+      "hash": "f93f98b8561edae9cf52c96081e72b242e28ed66"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/theme.png",
+      "hash": "6ca282b7cbcea8e009ba4be265095b0e7a8b0973"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/topo.png",
+      "hash": "61f6b3c5c7983593a78f9771b1f4b3655415c3c5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/villagers.png",
+      "hash": "20979056701ba640c4c50cb5aff1ba9dd875cd91"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/waypoints.png",
+      "hash": "978ea1cdd28da49282d4456f061c2c924c20a70a"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/zoomin.png",
+      "hash": "a93758aecf369719b0517212c979b983c29b4741"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/zoomout.png",
+      "hash": "3e20bc40df2b7667048ac037b85363f733881ed4"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png",
+      "hash": "26adc50b1d9a1c13b4d26d70433649775ba5fe0a"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png",
+      "hash": "4367fc3d812d8d5f81c6746f701fcd135645b3b5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png",
+      "hash": "5e3b19479e3bc0bf3af60c4482e779787d5c2e52"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png",
+      "hash": "aa405337c289ec63a01e72b8f8e7a3841cc35c0d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png",
+      "hash": "123813da9ba84038e69af47787adb62000b7cc30"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png",
+      "hash": "ab425705e2ae45e4db27b6f1af974e8303ef788b"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png",
+      "hash": "da3be616803ff558b8980ccac8ba77d64fe9b39a"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png",
+      "hash": "65e0f984f11c10b015d22126d90345e647400875"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png",
+      "hash": "3e7846fe3fc526c6bb7cf6497dd8a719eadeab84"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png",
+      "hash": "3a8dc933863889e61ad7476938957f8e5f439ff0"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_bottom.png",
+      "hash": "fcf50a822335d1a9658175f3094e385c01800274"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png",
+      "hash": "3b63a83f6f8ba1dea73eff5f2bb0f2d324202bc9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomright.png",
+      "hash": "44bdb215f3bad82e2c2192cd13bd679662f7a7d6"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_compass_point.png",
+      "hash": "25b7af0026492c5e3faefcf47b1e29ec98032fc5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_left.png",
+      "hash": "f3592b1ac4b9468c38e5b6d8332200e769e31355"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_right.png",
+      "hash": "5988717bde8ef0060b6dc920f655ebbbaaabce40"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_top.png",
+      "hash": "60ef85784d07de0d1ab0500560af9e8b5387aec5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_topleft.png",
+      "hash": "691f58cc7ca8b938b857c8de077a08b883b66389"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_topright.png",
+      "hash": "b5edd14dfe4f8d55800da0de8b43e3fc00c96332"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_bottom.png",
+      "hash": "a3884c4387c24963f666f51032e1766d87697bea"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png",
+      "hash": "63cbad15df737b563dc20ec9aa573c68e527aca5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomright.png",
+      "hash": "df136d1e11230fa8d0fe0fb84f2081247f4262a9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_compass_point.png",
+      "hash": "25b7af0026492c5e3faefcf47b1e29ec98032fc5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_left.png",
+      "hash": "48a3168d150c7045ac459149e6ac770d00dc7026"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_right.png",
+      "hash": "8f3f23ff88192e6cc56172673680e4e669df894f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_top.png",
+      "hash": "08c8eeae6beec6a456207704751ec28208d604ab"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_topleft.png",
+      "hash": "092d5e14d84f3a385176098541f41e75401ef91d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_topright.png",
+      "hash": "80ac51b7bbdd40d1982cbbe8d8644a0c4bbefd97"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/NetherFortress.theme2.json",
+      "hash": "e8ace1c6652343c3f3647c88a9dc44bdb04f7cd7"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/OceanMonument.theme2.json",
+      "hash": "29b64ee8830fc876491e134f1f6485bfaac27f64"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/Purist.theme2.json",
+      "hash": "6889bb94b1f6d74d3eb392599593a011ee2670b8"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/Stronghold.theme2.json",
+      "hash": "504bb40aea12eea7e23dbbd79dc6af803e9bd7fd"
+    },
+    {
+      "path": "journeymap/server/5.9/journeymap.server.default.config",
+      "hash": "c6328d502d4ffd1940c0670a7a9a375841ee29ee"
+    },
+    {
+      "path": "journeymap/server/5.9/journeymap.server.global.config",
+      "hash": "1b9c93885d10edf31043e94bbad0bcb28094a7b9"
+    },
+    {
+      "path": "journeymap/server/5.9/journeymap.server.minecraft~overworld.config",
+      "hash": "35af7685e425bbdf0077cf80ea4c354108760008"
+    },
+    {
+      "path": "journeymap/server/5.9/journeymap.server.minecraft~the_end.config",
+      "hash": "c7e834f3bc322046115588db6800ccb5ad266122"
+    },
+    {
+      "path": "journeymap/server/5.9/journeymap.server.minecraft~the_nether.config",
+      "hash": "dd2e713b813ecbf7953a1372e56b998a82208bf9"
+    },
+    {
+      "path": "local/ftbultimine-client.snbt",
+      "hash": "441d356f6f68314f2b28c6ed3a3d3042e883308b"
+    },
+    {
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
+    },
+    {
+      "path": "mods/architectury-6.6.92-fabric.jar",
+      "hash": "311131ec6f39cae9a3be0782b7da5d9450119285"
+    },
+    {
+      "path": "mods/betteranimalsplus-1.19.2-11.0.10-fabric.jar",
+      "hash": "4d6fc457a9924d7218cc69a19716de279b41e5a0"
+    },
+    {
+      "path": "mods/BetterAnimationsCollection-v4.0.5-1.19.2-Fabric.jar",
+      "hash": "d2da02a0782b00969b51a32b51a3b65e42d223b4"
+    },
+    {
+      "path": "mods/bettermounthud-1.2.0.jar",
+      "hash": "af91cf0d8944ce4d8d15592a0615174c26ce141a"
+    },
+    {
+      "path": "mods/betterstats-2.9.3+1.19.2.jar",
+      "hash": "369c4171578485c2be74e912d2acc5f247c7a4f5"
+    },
+    {
+      "path": "mods/BetterTridents-v4.0.2-1.19.2-Fabric.jar",
+      "hash": "12b4d6dccb94a24abadbbfc19fe55a96b86e2ad0"
+    },
+    {
+      "path": "mods/cardinal-components-api-5.0.2.jar",
+      "hash": "2ca37fd1372f48d39154aea952a9db148d1db9e5"
+    },
+    {
+      "path": "mods/catalogue-fabric-1.7.0-1.19.2.jar",
+      "hash": "bf89ad58ab60991554ea51fcbc4c5e00dea82f3c"
+    },
+    {
+      "path": "mods/chestcavity-2.16.5.jar",
+      "hash": "43a4c9a3db50449a42adca4deb9864ead0f45096"
+    },
+    {
+      "path": "mods/cloth-config-8.3.115-fabric.jar",
+      "hash": "949d908415eb7c6b1b974a614c719b6c9f14f527"
+    },
+    {
+      "path": "mods/collective-1.19.2-7.64.jar",
+      "hash": "3973b06887af84262f33a9e3b6927f61d4c918ff"
+    },
+    {
+      "path": "mods/configured-fabric-2.0.0-1.19.2.jar",
+      "hash": "d127fe05abd740f0ad6417ca72eccb12edeb9c71"
+    },
+    {
+      "path": "mods/CreativeCore_FABRIC_v2.9.4_mc1.19.2.jar",
+      "hash": "2107ce92262aa68771168b67fe180bf8336c214c"
+    },
+    {
+      "path": "mods/emi-1.1.10+1.19.2+fabric.jar",
+      "hash": "074d4399da427d9d90c1a624d55b2bc6cedc7714"
+    },
+    {
+      "path": "mods/enderitemc-enderitemod-1.4.1-1.19.2.jar",
+      "hash": "308c558730d01878caed700ac21fe88d6d8c7f91"
+    },
+    {
+      "path": "mods/extra-mod-integrations-0.1.2+1.19.2.jar",
+      "hash": "3dd2303380584195a3abb8556bff3187ec0f7cd7"
+    },
+    {
+      "path": "mods/fabric-api-0.77.0+1.19.2.jar",
+      "hash": "558cd912d95c9dec513eb87cc813d3a68aa93fa5"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
+      "hash": "4f5b3f0d773c4cc9e79d2f5ede3a637e78737f6d"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar",
+      "hash": "00d05a6d57ee557ab216de5527e1434e3cf50c24"
+    },
+    {
+      "path": "mods/ftb-library-fabric-1902.4.1-build.236.jar",
+      "hash": "2c24b2d94855c2fdd4b9268c625a9121fed017c2"
+    },
+    {
+      "path": "mods/ftb-ultimine-fabric-1902.4.1-build.90.jar",
+      "hash": "330613d3d0fdf1ad935c45ac88e64c9473f81b39"
+    },
+    {
+      "path": "mods/InventoryProfilesNext-fabric-1.19-1.10.10.jar",
+      "hash": "fe174a9aca39547b49fba8e2c38323707a1ed7d0"
+    },
+    {
+      "path": "mods/inventorytotem-1.19.2-3.2.jar",
+      "hash": "da4956191788d55eb929400cad4d2c4550212cff"
+    },
+    {
+      "path": "mods/iris-mc1.19.2-1.6.6.jar",
+      "hash": "6662ef4598971d8174c730d23841eaa954c46ba0"
+    },
+    {
+      "path": "mods/ItemPhysicLite_FABRIC_v1.5.2_mc1.19.1.jar",
+      "hash": "8f3c0095484e8d64730f4ceda3213c25ef7a8dbc"
+    },
+    {
+      "path": "mods/ItemPhysic_FABRIC_v1.6.6_mc1.19.2.jar",
+      "hash": "d6c6c85f683cae0fa2222ed7a520f07976601255"
+    },
+    {
+      "path": "mods/jei-1.19.2-fabric-11.6.0.1024.jar.disabled",
+      "hash": "09260b8ff58f3c763877cd56dece158a6c20b8c7"
+    },
+    {
+      "path": "mods/libIPN-fabric-1.19-4.0.2.jar",
+      "hash": "59c4c4b649d8cfa15b32acabc131cdcf3c5ccbf1"
+    },
+    {
+      "path": "mods/lithium-fabric-mc1.19.2-0.11.1.jar",
+      "hash": "072a8bad252765e0f21a6f939cf2056fe437228e"
+    },
+    {
+      "path": "mods/modmenu-4.2.0-beta.2.jar",
+      "hash": "6e627ee1b31f5be89e14c85e888f47463d8da9c2"
+    },
+    {
+      "path": "mods/Paintings-fabric-1.19.2-10.2.4.0.jar",
+      "hash": "78a7707a82a3b2f3efc94b1afb8bcc914329fabb"
+    },
+    {
+      "path": "mods/phosphor-fabric-mc1.19.x-0.8.1.jar",
+      "hash": "2dd6f771ba5878d81892b9487f35340e94c87a1c"
+    },
+    {
+      "path": "mods/PuzzlesLib-v4.4.3-1.19.2-Fabric.jar",
+      "hash": "923d176f11ebc6c1c086db5f51206d5950841733"
+    },
+    {
+      "path": "mods/reeses_sodium_options-1.6.4+mc1.19.2-build.93.jar",
+      "hash": "b3e82b1a9a226575dff81690559281d02e417e23"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-9.2.738-fabric.jar",
+      "hash": "01572afd1f906105eb9789fe42414aba14640510"
+    },
+    {
+      "path": "mods/sodium-extra-0.4.16+mc1.19.2-build.90.jar",
+      "hash": "39a06ef409c407304dd9581b3f2d6537ecd5b63d"
+    },
+    {
+      "path": "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
+      "hash": "227648dc4f6a8604bafc282612a6de47eff70cd8"
+    },
+    {
+      "path": "mods/startup_time-1.1.0.jar",
+      "hash": "85bb3de833c856b4da203bae404c017be6b7a33e"
+    },
+    {
+      "path": "mods/toolleveling-fabric-1.19.2-1.4.1.jar",
+      "hash": "bd259602dfabc5ce88bacb383ec70e9bebc186fb"
+    },
+    {
+      "path": "mods/trinkets-3.4.2.jar",
+      "hash": "83deb9f7ab28737a5d27a57e49fe105e9053804c"
+    },
+    {
+      "path": "mods/旅行者-fabric.jar",
+      "hash": "2d0ceefd6526ba85935c7eec2cacaa668fa4fff5"
+    },
+    {
+      "path": "mods/旅行者扩展fabric.jar",
+      "hash": "ceb69952ef14d96fb2fd3749ab6c4351ef7c40b8"
+    },
+    {
+      "path": "mods/精妙苹果代谢版-fabric.jar",
+      "hash": "85f98fc72b4ee9058d9cee82491ad90c41a3bcca"
+    },
+    {
+      "path": "mods/自定义世界提示禁用-3.0.jar",
+      "hash": "99e87f4cb9a1cd2c3f7ce635b5db73e0f03e141c"
+    },
+    {
+      "path": "mods/自定义局域网联机fabric.jar",
+      "hash": "e49d010832b127e1664f2c222fe8e0f05d854f55"
+    },
+    {
+      "path": "options.txt",
+      "hash": "4f519c540968f4bf5773412e86289ffce48ae731"
+    },
+    {
+      "path": "saves/新的世界/advancements/18a681a6-5282-34cc-976f-3ff71a22e2da.json",
+      "hash": "b1eac2bbbf94551f1921facb556923bc9ea57a3e"
+    },
+    {
+      "path": "saves/新的世界/data/cardinal_world_components.dat",
+      "hash": "e3b6e1652caade7804f792944563da221c52cb4a"
+    },
+    {
+      "path": "saves/新的世界/data/fabricRegistry.dat",
+      "hash": "eb0c78103b041ac068571934db491ff47a70d601"
+    },
+    {
+      "path": "saves/新的世界/data/fabricRegistry.dat.1",
+      "hash": "eb0c78103b041ac068571934db491ff47a70d601"
+    },
+    {
+      "path": "saves/新的世界/data/fabricRegistry.dat.2",
+      "hash": "eb0c78103b041ac068571934db491ff47a70d601"
+    },
+    {
+      "path": "saves/新的世界/data/raids.dat",
+      "hash": "78a58b3e52f13df23a244533e943e60563c26a6e"
+    },
+    {
+      "path": "saves/新的世界/data/scoreboard.dat",
+      "hash": "7c27664c254c66080723617a2a4e3a96aaa5dcd9"
+    },
+    {
+      "path": "saves/新的世界/data/WorldUUID.dat",
+      "hash": "10cf728e7722d3aed089153fb83c44fc52ca9614"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/data/cardinal_world_components.dat",
+      "hash": "e3b6e1652caade7804f792944563da221c52cb4a"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/data/raids.dat",
+      "hash": "78a58b3e52f13df23a244533e943e60563c26a6e"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.-1.-1.mca",
+      "hash": "d93af7e095b8d1d5ccffb3e7d428fae37ac808d3"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.-1.0.mca",
+      "hash": "401cc55ac3a4e620b5d389192ad96fac0d2a67d1"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.-1.1.mca",
+      "hash": "3c979ce217673eff5865e1893b3cbc6ab4219eb5"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.0.-1.mca",
+      "hash": "fb8bb02da7f638d50be5b471b3343c773b1196cc"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.0.0.mca",
+      "hash": "791f3da4ce82c38fa471adfacb8e14dc08e0e010"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.0.1.mca",
+      "hash": "541b75486eff6cecab530bef66b8ddf64c18e153"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.-1.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.-1.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.0.-1.mca",
+      "hash": "c32e38b527ebb85248d585e62dba03facc8802ce"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.0.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.1.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.1.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-1.-1.mca",
+      "hash": "72d7ca541f67b7e587f8294bac1a024a74fb8d21"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-1.0.mca",
+      "hash": "80fdae3c4b3cd08dec9cbe1719b37e848af9cb92"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-1.1.mca",
+      "hash": "c3cb7e098bec7b824f5f2bf4878d5e9cf1e5935f"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-2.0.mca",
+      "hash": "d1d1f78d8ec688df29fc1c28b5b506c2fa41a91f"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-2.1.mca",
+      "hash": "942b25b0bc94baae70575ca133981ab3b985da98"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.0.-1.mca",
+      "hash": "57bbcbf52e89d76c0dc02318c29aaa266ce72d9a"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.0.0.mca",
+      "hash": "5d0a7a7cce67dea813cc14423eb29aeefd801131"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.0.1.mca",
+      "hash": "0628294586bc8325da27aa92b663f53a46baa0dd"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.1.-1.mca",
+      "hash": "cac11e08b3c379dd84cd95407d2b0f914cbedb88"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.1.0.mca",
+      "hash": "ae3bf899e46a1cb08485c71341aa240968b373f7"
+    },
+    {
+      "path": "saves/新的世界/DIM1/data/cardinal_world_components.dat",
+      "hash": "e3b6e1652caade7804f792944563da221c52cb4a"
+    },
+    {
+      "path": "saves/新的世界/DIM1/data/raids_end.dat",
+      "hash": "78a58b3e52f13df23a244533e943e60563c26a6e"
+    },
+    {
+      "path": "saves/新的世界/DIM1/entities/r.-1.-1.mca",
+      "hash": "d258c42df76f46480c112352e8a11e84d2aa124e"
+    },
+    {
+      "path": "saves/新的世界/DIM1/entities/r.-1.0.mca",
+      "hash": "0c4575978c850b1c8f2e205653abab115a1fe491"
+    },
+    {
+      "path": "saves/新的世界/DIM1/entities/r.0.-1.mca",
+      "hash": "1d31ffcac714b5fc20af7206bcb514f25b1982bc"
+    },
+    {
+      "path": "saves/新的世界/DIM1/entities/r.0.0.mca",
+      "hash": "5191067bda27c43d040f78b72cdbfec74c494a17"
+    },
+    {
+      "path": "saves/新的世界/DIM1/entities/r.3.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM1/entities/r.3.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM1/poi/r.-1.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM1/poi/r.-1.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM1/poi/r.0.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM1/poi/r.0.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM1/poi/r.3.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM1/poi/r.3.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM1/poi/r.4.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM1/poi/r.4.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM1/region/r.-1.-1.mca",
+      "hash": "46d3bd72a8e6bb239518cc59a79b0cce513a88b5"
+    },
+    {
+      "path": "saves/新的世界/DIM1/region/r.-1.0.mca",
+      "hash": "e76dc1195af3db0e20bf19febb621aea0dcb8a45"
+    },
+    {
+      "path": "saves/新的世界/DIM1/region/r.0.-1.mca",
+      "hash": "a31d23c4973681194b8d0e7b2eae55b60c8edbcc"
+    },
+    {
+      "path": "saves/新的世界/DIM1/region/r.0.0.mca",
+      "hash": "c7f7def1edda2e148217fbd755593ab953f52d87"
+    },
+    {
+      "path": "saves/新的世界/DIM1/region/r.3.-1.mca",
+      "hash": "0bd9116766035235c311743f72dfde7877d551a7"
+    },
+    {
+      "path": "saves/新的世界/DIM1/region/r.3.-2.mca",
+      "hash": "0c9f56497e2ce8d70a4fb11f15f606a8eab978d1"
+    },
+    {
+      "path": "saves/新的世界/DIM1/region/r.3.0.mca",
+      "hash": "0595834a95a1b99cd209a11464d5ea5e4d84c316"
+    },
+    {
+      "path": "saves/新的世界/DIM1/region/r.4.-1.mca",
+      "hash": "0ef58a40ab029ca2668c84a42856495a124f698f"
+    },
+    {
+      "path": "saves/新的世界/DIM1/region/r.4.-2.mca",
+      "hash": "256ed0e0e0c8cfcd908ca4a21cb4c1ea84869d89"
+    },
+    {
+      "path": "saves/新的世界/DIM1/region/r.4.0.mca",
+      "hash": "fc169c2e27475350d0f4f6eb965329c865653019"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.-1.mca",
+      "hash": "11735d10ff9b79cfc65d4c77d2bd3aabcb1941e0"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.-2.mca",
+      "hash": "219fac844adc72d194ca9b0a58ad702977da8987"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.0.mca",
+      "hash": "5bc86402e036bb753df2e71d8f1adeee5061cb61"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.-1.mca",
+      "hash": "87420b4f3107a237ba3287f3c995826838e50956"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.-2.mca",
+      "hash": "6658b3d5bf8938a217ebf0189d1ed0b32ec0eb0e"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.-3.mca",
+      "hash": "95326dc3bd108a4f69eef72f2db4e483cf344b79"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.0.mca",
+      "hash": "65473d39b356250232b145899ef972714426feab"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.-1.mca",
+      "hash": "6e54844a3f3240dc0b02663e1a292e0d67ff1ee6"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.-2.mca",
+      "hash": "1a8f05b8b0732aef717be9793084d43cce16d564"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.-3.mca",
+      "hash": "54336bc0fd62eb90648254752ea05c37e89a3050"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.0.mca",
+      "hash": "8312f8c6d481d378189ebd967c1abc9d919a82c7"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.1.mca",
+      "hash": "ab0b5d4cfd6650410fd8a440d24531f47a99b85f"
+    },
+    {
+      "path": "saves/新的世界/entities/r.2.-1.mca",
+      "hash": "22ed0bb0d97900a54ef56b8c5717969c73be76c0"
+    },
+    {
+      "path": "saves/新的世界/entities/r.2.-2.mca",
+      "hash": "7afedef455792aef19c699ca8ecc7af3fae76101"
+    },
+    {
+      "path": "saves/新的世界/entities/r.2.-3.mca",
+      "hash": "817dd84aba280fdbbd275a079803c7cfe9655927"
+    },
+    {
+      "path": "saves/新的世界/entities/r.2.0.mca",
+      "hash": "d4a3bcdff7a6f477949b372f3a014b249e3e67f8"
+    },
+    {
+      "path": "saves/新的世界/entities/r.2.1.mca",
+      "hash": "b7908a900f3c4ceddc2304c4d95e98a0b9df9978"
+    },
+    {
+      "path": "saves/新的世界/entities/r.3.-1.mca",
+      "hash": "e6b233b15f592d9204c81140baa0ac02c440521a"
+    },
+    {
+      "path": "saves/新的世界/entities/r.3.-2.mca",
+      "hash": "7e8bb56ebf2056363dcf22370dbc20d04805095b"
+    },
+    {
+      "path": "saves/新的世界/entities/r.3.0.mca",
+      "hash": "fcc57b3a56228c4484407400b440aa35b4d038ae"
+    },
+    {
+      "path": "saves/新的世界/entities/r.3.1.mca",
+      "hash": "0f5fb91a1565caaa8fe9a32da8eed0396bfb494c"
+    },
+    {
+      "path": "saves/新的世界/entities/r.4.-1.mca",
+      "hash": "2aaa3794472bafe61cd3d2dfbe2ff110ff896f61"
+    },
+    {
+      "path": "saves/新的世界/entities/r.4.-2.mca",
+      "hash": "db2f7c70aeda2f2712bfef00a99d45e961431adc"
+    },
+    {
+      "path": "saves/新的世界/entities/r.4.0.mca",
+      "hash": "8843470e5bcb771206d4062053496e8c40f5dcbf"
+    },
+    {
+      "path": "saves/新的世界/entities/r.4.1.mca",
+      "hash": "8d3e2799ff2b30a67069d6eba4977a77c608b833"
+    },
+    {
+      "path": "saves/新的世界/icon.png",
+      "hash": "8495d38acae8c9ea61e223e1a37516ccc9823522"
+    },
+    {
+      "path": "saves/新的世界/level.dat",
+      "hash": "727c024072f366722ac728873b1749bb9ac3e612"
+    },
+    {
+      "path": "saves/新的世界/level.dat_old",
+      "hash": "6f07b509c0af64b5535045b21a6f441e1e1f59fd"
+    },
+    {
+      "path": "saves/新的世界/playerdata/18a681a6-5282-34cc-976f-3ff71a22e2da.dat",
+      "hash": "27cbc340ab6707fb5105385886b25bb494bed8ba"
+    },
+    {
+      "path": "saves/新的世界/playerdata/18a681a6-5282-34cc-976f-3ff71a22e2da.dat_old",
+      "hash": "27cbc340ab6707fb5105385886b25bb494bed8ba"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.-1.mca",
+      "hash": "807cd0d39b8e4003016096a6358fa79a276d8b0e"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.-1.mca",
+      "hash": "a0897d48f30350159c87131ed1b656068fcd550a"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.-3.mca",
+      "hash": "043370ee4b5f5b21504dccd6beaaeec3bdff7b42"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.0.mca",
+      "hash": "2d267dba1add0255518fade37431e16cb0d55931"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.-1.mca",
+      "hash": "fd90694e4f4c72390407981ef4196fcd9e4e6613"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.0.mca",
+      "hash": "c9d072b44c46bc78104af38af40a5ac7685f9322"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.1.mca",
+      "hash": "2aa9f7137d64ee871c5142fae1148034903cba03"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.-3.mca",
+      "hash": "9429d7ba4fbcb89b787682c7d171475e36cc794a"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.0.mca",
+      "hash": "f6c41005880a48eb6050750ca88c65d755dfd639"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.3.-1.mca",
+      "hash": "875208019ba55a05d334be35e1f3d9e03ade9de2"
+    },
+    {
+      "path": "saves/新的世界/poi/r.3.-2.mca",
+      "hash": "43f5ab1c111e1be12fa5d7dd36f8eaf1dd2cba83"
+    },
+    {
+      "path": "saves/新的世界/poi/r.3.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.3.0.mca",
+      "hash": "048b9de44b4805f255403567ca94c34c5a633687"
+    },
+    {
+      "path": "saves/新的世界/poi/r.3.1.mca",
+      "hash": "fa622a9580bc787392295dba7b7bf9081763e437"
+    },
+    {
+      "path": "saves/新的世界/poi/r.4.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.4.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.4.0.mca",
+      "hash": "1e0b5c17d5948967ee92ff5429091bbf5a922efd"
+    },
+    {
+      "path": "saves/新的世界/poi/r.4.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.5.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.5.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.5.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.-1.mca",
+      "hash": "1cfb0a538dfabc5dbb3529cf48efcd4a8ac09065"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.-2.mca",
+      "hash": "136adbaa848a68c5affe4edee44010cdbfb6e881"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.-3.mca",
+      "hash": "a54d709f15fa06347b9c5e2e71bee1740bd82ae7"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.0.mca",
+      "hash": "552523b51ea95be2e79305c291746386ab338d45"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-1.mca",
+      "hash": "e8fe6e064a6e7461743ec56de0a0a2dec95939b6"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-2.mca",
+      "hash": "7dffb24ace07215ac08d3d9806e76313da8eadc5"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-3.mca",
+      "hash": "265ba0699b357ed043f177f164827181d2dfe589"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-4.mca",
+      "hash": "8bfc003a43f797462ee7b355013495a328b19cfe"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.0.mca",
+      "hash": "9bcceea56124acc1293759cb852da7b595f23964"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.1.mca",
+      "hash": "e7cf1e68da7689ac952e8d8949782bff12d2fc1f"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-1.mca",
+      "hash": "3aefd321f2a8ce32697eec18dfd1dad6af7e1a5a"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-2.mca",
+      "hash": "8b1fae184464a6f051242541f317d3cd4850d7f5"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-3.mca",
+      "hash": "5ae35dec88975311ed22e6c12118eac463855884"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-4.mca",
+      "hash": "80c5a9be9aeca70fe9c1719c90397c8346b5c680"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.0.mca",
+      "hash": "58db687b45da2eab7f6ed9e92f1c32870e248b09"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.1.mca",
+      "hash": "9f6e2e5d025e23076bdad37134d0b2afc15c23bb"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-1.mca",
+      "hash": "b97ba2240abe685c5b5f798fb22c75cb6a980ccc"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-2.mca",
+      "hash": "ba5fd9b5d5896e8a25da150ce273ffc7d3cf0222"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-3.mca",
+      "hash": "be3fdb4241844c5042ee4696190abbf8ed9e7fc6"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-4.mca",
+      "hash": "018036281ac677331a173ba25ef591e729e5aa50"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.0.mca",
+      "hash": "b5e1a9b94208006463bd3a6e86daf99a18422a16"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.1.mca",
+      "hash": "53722e2e7a11de5fa40754aaa8d0c4d9b7fbf3e5"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.2.mca",
+      "hash": "a20695a9f12a4485b1c907fc8135b60c56f92205"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.-1.mca",
+      "hash": "05fbd60682e7ce970849ca5f30e9dd54918cf3d7"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.-2.mca",
+      "hash": "9d32752a45fae71357a4028502227191a102e6f6"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.-3.mca",
+      "hash": "437cb6a3c62d420d0869bfed49c08088f9e02587"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.0.mca",
+      "hash": "fbcb450798e8da5a68d36ab2eb2b72ba61947d89"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.1.mca",
+      "hash": "a389eb0bb7f246f3b827f43361c21156ccedc81f"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.2.mca",
+      "hash": "65120a70d388cfa84da8ab83948fa3862e434de3"
+    },
+    {
+      "path": "saves/新的世界/region/r.4.-1.mca",
+      "hash": "41c1b11d6bec1f3103c347c291f7f66a3b8862ce"
+    },
+    {
+      "path": "saves/新的世界/region/r.4.-2.mca",
+      "hash": "171c56eaeef9d0d3fec2bd2f34aaf1366b4f9984"
+    },
+    {
+      "path": "saves/新的世界/region/r.4.-3.mca",
+      "hash": "6c995961ca9d8c913f9ae643fff2973acd8ac803"
+    },
+    {
+      "path": "saves/新的世界/region/r.4.0.mca",
+      "hash": "f49d68a60aa6093be52a00efb9004cd8b110858d"
+    },
+    {
+      "path": "saves/新的世界/region/r.4.1.mca",
+      "hash": "01868806bb88dee1da91d871adaafade64da4a37"
+    },
+    {
+      "path": "saves/新的世界/region/r.4.2.mca",
+      "hash": "568712f802242d5852297664eba2233728f0b574"
+    },
+    {
+      "path": "saves/新的世界/region/r.5.-1.mca",
+      "hash": "2b3b17d65baca15582f6c062a68c3abe0e8b211a"
+    },
+    {
+      "path": "saves/新的世界/region/r.5.-2.mca",
+      "hash": "7856f174f31d8b090bf5dc81eece63c3e5728d7e"
+    },
+    {
+      "path": "saves/新的世界/region/r.5.0.mca",
+      "hash": "6b6e1861f45642f4485871e9a45d4251a5bfd1ac"
+    },
+    {
+      "path": "saves/新的世界/region/r.5.1.mca",
+      "hash": "7ca941569ad290f80a41a00ff3b0a8a314811227"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/betteranimalsplus-server.json5",
+      "hash": "619941c47407cd84b7f5ae93d98e2a4eb0ebfd62"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/ftbultimine-server.snbt",
+      "hash": "4563fadc57ac46438556981980ebdbb2dc13c524"
+    },
+    {
+      "path": "saves/新的世界/session.lock",
+      "hash": "2686137311c038a99622242fdb662b88c221c08d"
+    },
+    {
+      "path": "saves/新的世界/stats/18a681a6-5282-34cc-976f-3ff71a22e2da.json",
+      "hash": "c71d79a2a89bd15497c753b7dcf8ec7c631d6d99"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.19.2"
+    },
+    {
+      "id": "fabric",
+      "version": "0.16.0"
+    }
+  ]
+}
