@@ -1,0 +1,7 @@
+{
+	"favorites": [],
+	"hiddenFavorites": [],
+	"displays": [
+		"{DisplayHistoryCategory:\"minecraft:plugins/crafting\",DisplayHistoryContains:1b,DisplayHistoryData:{REIRecipeType:\"Shapeless\",input:[[{Count:1b,id:\"minecraft:ender_pearl\",type:\"minecraft:item\"}],[{Count:1b,id:\"minecraft:blaze_powder\",type:\"minecraft:item\"}]],location:\"minecraft:ender_eye\",output:[[{Count:1b,id:\"minecraft:ender_eye\",type:\"minecraft:item\"}]]},DisplayHistoryUUID:\"cd82ecdb-33f8-4408-960f-2517e6a027c5\"}"
+	]
+}
