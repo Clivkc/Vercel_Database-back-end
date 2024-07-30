@@ -1,0 +1,24 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:oxidized_cut_copper_slab"
+  ],
+  "craft_history": [
+    "chestcavity:salvage_bone_meal",
+    "minecraft:ender_eye",
+    "minecraft:blaze_powder",
+    "minecraft:flint_and_steel",
+    "minecraft:iron_ingot_from_nuggets",
+    "minecraft:oak_boat",
+    "minecraft:oak_planks",
+    "minecraft:crafting_table",
+    "minecraft:bone_meal"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
